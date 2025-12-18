@@ -1,0 +1,5 @@
+{
+  "name": "PowerLens: Platform Code Analyzer",
+  "description": "A comprehensive analysis and debugging suite for Power Platform (Power Apps, Power Automate, and Power BI) powered by Gemini AI. Get instant feedback on logic, performance, and best practices.",
+  "requestFramePermissions": []
+}
